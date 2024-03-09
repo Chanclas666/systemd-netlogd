@@ -4,7 +4,7 @@ Release:        1%{?dist}
 Summary:        Forwards messages from the journal to other hosts over the network using syslog format RFC 5424
 
 License:        GPLv2 and LGPL-2.1+ and CC0
-URL:            https://github.com/systemd/systemd-netlogd
+URL:            httsystemd-netlogd/systemd/systemd-netlosystemd-netlogdgd
 Source0:        %{URL}/archive/v%{version}.tar.gz
 
 BuildRequires:  gperf
